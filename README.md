@@ -1,6 +1,6 @@
 # Internal Cheat Framework (ImGui & OpenGL)
 
-A simple and effective **Direct3D & ImGui-based internal cheat framework** designed for game hacking. This project features **ESP, Aimbot, and Silent Aim** functionalities, with hooks for **SwapBuffers** and **WndProc** to intercept rendering and input handling.
+A simple and effective **OpenGL & ImGui-based internal cheat framework** designed for game hacking. This project features **ESP, Aimbot, and Silent Aim** functionalities, with hooks for **SwapBuffers** and **WndProc** to intercept rendering and input handling.
 
 ## Features
 ✅ **ESP (Wallhack)** – Displays player boxes, health bars, and names.  
